@@ -25,15 +25,8 @@ Pour lancer l'application localement, suivez ces étapes :
 2. Construisez l'image Docker : `docker build -t cicdfullstack .`
 3. Lancez le conteneur : `docker run -dp 3000:3000 cicdfullstack`
 
-## Documentation API
-
-La documentation de l'API, détaillant les endpoints disponibles et leur utilisation, est disponible dans le dossier `/docs`.
-
 ## Tests
 
 Les tests unitaires peuvent être exécutés avec la commande suivante : `npm test`. Ces tests assurent la fiabilité des fonctionnalités de base de l'application.
 
-## Contribution
-
-Les contributions au projet sont bienvenues. Pour contribuer, veuillez suivre les étapes habituelles - fork du dépôt, création d'une branche pour vos modifications, suivi d'une pull request.
 
